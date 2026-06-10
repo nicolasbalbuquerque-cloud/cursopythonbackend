@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "cursopythonbackend"
+version = "0.1.0"
+description = "Atividades práticas desenvolvidas durante o curso de Python Backend"
+authors = ["Nicolas Bomfim <seu-email@exemplo.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
